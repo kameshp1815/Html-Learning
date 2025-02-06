@@ -1,0 +1,27 @@
+##TAGs
+
+    1.<header>
+    2.<footer>
+    3.<main>
+    4.<aside>
+    5.<article>
+    6.<section>
+
+    7.<h1>,<h2>,...,<h6>
+
+
+<main>
+    There's a single <main> landmark element. The <main> element identifies the main content of the document. 
+    There should be only one <main> per page.
+
+<aside>
+    The <aside> tag in HTML is used for extra or side content that is related but not essential to the main content. 
+    It is often used for sidebars, ads, author info, or related links.
+
+<article>
+    The <article> tag in HTML is used for independent, self-contained content that can stand alone. 
+    It is often used for blog posts, news articles, forum posts, or any content that makes sense on its own.
+
+<section>
+    The <section> tag in HTML is used to group related content together within a webpage. 
+    It helps organize a webpage into meaningful parts, like different sections of an article, a product page, or a homepage layout.
